@@ -4,12 +4,12 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome:Luis Felipe de Oliveira Silva
+- Matricula: 915187
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
+<<  ![](<Captura de tela 2026-05-06 004547.png>)>>
 
 
 

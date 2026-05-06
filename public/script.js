@@ -1,4 +1,4 @@
-
+cd
 
 let nome = prompt("Digite seu nome:");
 
@@ -33,7 +33,7 @@ for (let i = 1; i <= qtdDespesas; i++) {
     totalDespesas += despesa;
 }
 
-
+g
 let mensagem = "";
 let sobra = renda - totalDespesas;
 
